@@ -8,6 +8,8 @@ See the Guide on how to contribute [here](CONTRIBUTING.md) for instructions on h
 
 Fantasy league is a friendly cricket fantasy league app where users can compete against one another in their groups. The idea is to scrape espncricinfo to get live scores data and assign scores to each player and then to every user's team.
 
+Server Code: [fantasy-league-server](https://github.com/shreyshrey71/fantasy-league-server/)
+
 ### Flow
 
 - Players join groups.
